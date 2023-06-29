@@ -7,5 +7,5 @@ After Installation create a new spring project and run the Project
 # OutPut of Application Hello World
 ![Screenshot 2023-06-22 113035](https://github.com/vikeshkumar8210/test-dec-2022/assets/73430534/9728e101-22aa-4160-aba0-9875d5334a22)
 
-# Connect to MySQL Workbench (Database)
+# Connected to MySQL Workbench (Database)
 ![Screenshot 2023-06-23 030200](https://github.com/vikeshkumar8210/test-dec-2022/assets/73430534/91780195-11bd-4f0b-bc5b-3dcc87919886)
